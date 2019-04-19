@@ -1,0 +1,17 @@
+p, li, em {
+    color: white;
+    padding: .5em;
+    margin: .5em;
+  }
+  p{
+      background-color: blue;
+  }
+  li{
+      color: black;
+      background-color: red;
+  }
+
+*{
+    
+    border: .5em solid rgba(0, 0, 0, 0.5);
+}
